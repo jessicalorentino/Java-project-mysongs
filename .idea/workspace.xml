@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866f211d-9b7e-42d2-a466-bb8ca9555a02" name="Changes" comment="Projeto Java" />
+    <list default="true" id="866f211d-9b7e-42d2-a466-bb8ca9555a02" name="Changes" comment="Project Java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
         <option value="jessicalorentino &lt;contato.jessicajsl@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -48,7 +51,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "new-project-java-songs",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/programa/mysongs/src/Main.java"
+    "onboarding.tips.debug.path": "C:/programa/mysongs/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -110,12 +114,32 @@
       <option name="project" value="LOCAL" />
       <updated>1718340693809</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project Java">
+      <option name="closed" value="true" />
+      <created>1718340845325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718340845325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project-Java" />
     <MESSAGE value="Projeto Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto Java" />
+    <MESSAGE value="Project Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Java" />
   </component>
 </project>
